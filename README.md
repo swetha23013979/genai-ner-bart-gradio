@@ -79,7 +79,7 @@ demo = gr.Interface(fn=ner,
 demo.launch()
 ```
 ### OUTPUT:
-![389803861-9b9124c8-30b6-45b0-82ec-cbe9eb32f64b](https://github.com/user-attachments/assets/8c8e711f-07c3-4429-8d5e-606b6b3c1a0a)
+![{5E77AAFA-6B54-459A-AB88-C54A4AB9F449}](https://github.com/user-attachments/assets/078c19f5-528a-4937-85f0-e2ceb2818166)
 
 ### RESULT:
 Successfully a prototype application for Named Entity Recognition (NER) by leveraging a fine-tuned BART model and deploying the application using the Gradio framework for user interaction and evaluation.
